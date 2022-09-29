@@ -1,0 +1,3 @@
+# Ignore Mac OS system generated files.
+__MACOSX/
+.DS_Store
