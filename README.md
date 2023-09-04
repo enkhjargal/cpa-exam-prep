@@ -1,9 +1,20 @@
-# C++ Certified Associate Programmer (CPA) Exam preparation
-## Introduction
-C++ is a general-purpose programming language which can perform a wide variety of tasks efficiently on top of the zero-overhead principle.
+# C++ Certified Associate Programmer (CPA) Exam Preparation
 
-## Purpose
-I wish to become adept in C++ programming to build high-level systems and applications by managing hardware resources.
+## Introduction:
+C++ is a versatile programming language capable of efficiently handling a wide range of tasks, built upon the principle of zero-overhead.
 
-## References
-Test Official Guide: please [click here](https://cppinstitute.org/cpa-c-certified-associate-programmer-certification)
+## Purpose:
+My goal is to gain proficiency in C++ programming in order to create high-level systems and applications, effectively managing hardware resources.
+
+## References:
+For the official guide to the test, please [click here](https://cppinstitute.org/cpa-c-certified-associate-programmer-certification)
+
+
+
+
+
+
+
+
+
+
